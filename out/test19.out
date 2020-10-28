@@ -1,0 +1,129 @@
+AC results
+Pattern '1' appears at: 0 3 4 5 12 
+Pattern '10' appears at: 0 5 12 
+Pattern '11' appears at: 3 4 
+Pattern '100' appears at: 0 5 12 
+Pattern '110' appears at: 4 
+Pattern '111' appears at: 3 
+Pattern '1000' appears at: 5 
+Pattern '1001' appears at: 0 
+Pattern '1100' appears at: 4 
+Pattern '1110' appears at: 3 
+Pattern '10000' appears at: 5 
+Pattern '10011' appears at: 0 
+Pattern '11000' appears at: 4 
+Pattern '11100' appears at: 3 
+Pattern '100000' appears at: 5 
+Pattern '100111' appears at: 0 
+Pattern '110000' appears at: 4 
+Pattern '111000' appears at: 3 
+Pattern '1000000' appears at: 5 
+Pattern '1001110' appears at: 0 
+Pattern '1100000' appears at: 4 
+Pattern '1110000' appears at: 3 
+Pattern '10000001' appears at: 5 
+Pattern '10011100' appears at: 0 
+Pattern '11000000' appears at: 4 
+Pattern '11100000' appears at: 3 
+Pattern '100000010' appears at: 5 
+Pattern '100111000' appears at: 0 
+Pattern '110000001' appears at: 4 
+Pattern '111000000' appears at: 3 
+Pattern '1000000100' appears at: 5 
+Pattern '1001110000' appears at: 0 
+Pattern '1100000010' appears at: 4 
+Pattern '1110000001' appears at: 3 
+Pattern '10011100000' appears at: 0 
+Pattern '11000000100' appears at: 4 
+Pattern '11100000010' appears at: 3 
+Pattern '100111000000' appears at: 0 
+Pattern '111000000100' appears at: 3 
+Pattern '1001110000001' appears at: 0 
+Pattern '10011100000010' appears at: 0 
+
+RK results
+Pattern '1' appears at: 0 3 4 5 12 
+Pattern '10' appears at: 0 5 12 
+Pattern '11' appears at: 3 4 
+Pattern '100' appears at: 0 5 12 
+Pattern '110' appears at: 4 
+Pattern '111' appears at: 3 
+Pattern '1000' appears at: 5 
+Pattern '1001' appears at: 0 
+Pattern '1100' appears at: 4 
+Pattern '1110' appears at: 3 
+Pattern '10000' appears at: 5 
+Pattern '10011' appears at: 0 
+Pattern '11000' appears at: 4 
+Pattern '11100' appears at: 3 
+Pattern '100000' appears at: 5 
+Pattern '100111' appears at: 0 
+Pattern '110000' appears at: 4 
+Pattern '111000' appears at: 3 
+Pattern '1000000' appears at: 5 
+Pattern '1001110' appears at: 0 
+Pattern '1100000' appears at: 4 
+Pattern '1110000' appears at: 3 
+Pattern '10000001' appears at: 5 
+Pattern '10011100' appears at: 0 
+Pattern '11000000' appears at: 4 
+Pattern '11100000' appears at: 3 
+Pattern '100000010' appears at: 5 
+Pattern '100111000' appears at: 0 
+Pattern '110000001' appears at: 4 
+Pattern '111000000' appears at: 3 
+Pattern '1000000100' appears at: 5 
+Pattern '1001110000' appears at: 0 
+Pattern '1100000010' appears at: 4 
+Pattern '1110000001' appears at: 3 
+Pattern '10011100000' appears at: 0 
+Pattern '11000000100' appears at: 4 
+Pattern '11100000010' appears at: 3 
+Pattern '100111000000' appears at: 0 
+Pattern '111000000100' appears at: 3 
+Pattern '1001110000001' appears at: 0 
+Pattern '10011100000010' appears at: 0 
+
+KMP results
+Pattern '1' appears at: 0 3 4 5 12 
+Pattern '10' appears at: 0 5 12 
+Pattern '11' appears at: 3 4 
+Pattern '100' appears at: 0 5 12 
+Pattern '110' appears at: 4 
+Pattern '111' appears at: 3 
+Pattern '1000' appears at: 5 
+Pattern '1001' appears at: 0 
+Pattern '1100' appears at: 4 
+Pattern '1110' appears at: 3 
+Pattern '10000' appears at: 5 
+Pattern '10011' appears at: 0 
+Pattern '11000' appears at: 4 
+Pattern '11100' appears at: 3 
+Pattern '100000' appears at: 5 
+Pattern '100111' appears at: 0 
+Pattern '110000' appears at: 4 
+Pattern '111000' appears at: 3 
+Pattern '1000000' appears at: 5 
+Pattern '1001110' appears at: 0 
+Pattern '1100000' appears at: 4 
+Pattern '1110000' appears at: 3 
+Pattern '10000001' appears at: 5 
+Pattern '10011100' appears at: 0 
+Pattern '11000000' appears at: 4 
+Pattern '11100000' appears at: 3 
+Pattern '100000010' appears at: 5 
+Pattern '100111000' appears at: 0 
+Pattern '110000001' appears at: 4 
+Pattern '111000000' appears at: 3 
+Pattern '1000000100' appears at: 5 
+Pattern '1001110000' appears at: 0 
+Pattern '1100000010' appears at: 4 
+Pattern '1110000001' appears at: 3 
+Pattern '10011100000' appears at: 0 
+Pattern '11000000100' appears at: 4 
+Pattern '11100000010' appears at: 3 
+Pattern '100111000000' appears at: 0 
+Pattern '111000000100' appears at: 3 
+Pattern '1001110000001' appears at: 0 
+Pattern '10011100000010' appears at: 0 
+

@@ -1,0 +1,12 @@
+AC results
+Pattern 'do' appears at: 5 
+Pattern 'avocado' appears at: 0 
+
+RK results
+Pattern 'do' appears at: 5 
+Pattern 'avocado' appears at: 0 
+
+KMP results
+Pattern 'do' appears at: 5 
+Pattern 'avocado' appears at: 0 
+

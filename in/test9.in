@@ -1,0 +1,12 @@
+s[0] * B(m – 1) + s[1]
+
+The “naive” approach is easy to understand and implement but it can be too slow in some cases. If the length of the text is n and the length of the pattern m, in the worst case it may take as much as (n * m) iterations to complete the task.
+
+It should be noted though, that for most practical purposes, which deal with texts based on human languages, this approach is much faster since the inner loop usually quickly finds a mismatch and breaks. A problem arises when we are faced with different kinds of “texts,” such as the genetic code.
+
+Rabin-Karp Algorithm (RK)
+This is actually the “naive” approach augmented with a powerful programming technique – the hash function.
+
+Every string s[] of length m can be seen as a number H written in a positional numeral system in base B (B >= size of the alphabet used in the string):
+
+H = s[0] * B(m – 1) + s[1] * B(m – 2) + … + s[m - 2] * B1 + s[m - 1] * B0

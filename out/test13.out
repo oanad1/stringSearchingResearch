@@ -1,0 +1,12 @@
+AC results
+Pattern '11' appears at: 1 2 3 6 
+Pattern '01' appears at: 0 5 
+
+RK results
+Pattern '11' appears at: 1 2 3 6 
+Pattern '01' appears at: 0 5 
+
+KMP results
+Pattern '11' appears at: 1 2 3 6 
+Pattern '01' appears at: 0 5 
+

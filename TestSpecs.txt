@@ -1,0 +1,129 @@
+
+------SINGLE PATTER MATCHING------
+
+>>>SMALL ALPHABET SIZE<<<
+test1
+Type: Single pattern matching
+Alphabet size: 4
+Text size: 10
+Nr occurences: 0
+
+test2
+Type: Single pattern matching
+Alphabet size: 4
+Text size: 10
+Nr occurences: 10
+
+test3
+Type: Single pattern matching
+Alphabet size: 4
+Text size: 1000
+Nr occurences: 1
+
+test4
+Type: Single pattern matching
+Alphabet size: 4
+Text size: 1000
+Nr occurences: 864
+
+test5
+Type: Single pattern matching
+Alphabet size: 4
+Text size: 1000000
+Nr occurences: 9
+
+test6
+Type: Single pattern matching
+Alphabet size: 4
+Text size: 1000000
+Nr occurences: 849991
+
+
+>>>LARGE ALPHABET SIZE<<<
+test7
+Type: Single pattern matching
+Alphabet size: 256
+Text size: 28
+Nr occurences: 1
+
+test8
+Type: Single pattern matching
+Alphabet size: 256
+Text size: 14
+Nr occurences: 12
+
+test9
+Type: Single pattern matching
+Alphabet size: 256
+Text size: 901
+Nr occurences: 1
+
+test10
+Type: Single pattern matching
+Alphabet size: 256
+Text size: 900
+Nr occurences: 608
+
+test11:
+Type: Single pattern matching
+Alphabet size: 4
+Text size: 175416
+Nr occurences: 0
+
+test12:
+Type: Single pattern matching
+Alphabet size: 4
+Text size: 1213023
+Nr occurences:105959
+
+------MULTIPLE PATTER MATCHING------
+
+>>>SMALL NUMBER OF PATTERNS<<<
+test13
+Type: Multiple pattern matching
+Alphabet size: 2
+Text size: 10
+Nr of patterns: 3
+
+test14
+Type: Multiple pattern matching
+Alphabet size: 2
+Text size: 1000
+Nr of patterns: 5
+
+test15
+Type: Multiple pattern matching
+Alphabet size: 2
+Text size: 1000000
+Nr of patterns: 4
+
+test16
+Type: Multiple pattern matching
+Alphabet size: 256
+Text size: 7
+Nr of patterns: 2
+
+test17
+Type: Multiple pattern matching
+Alphabet size: 256
+Text size: 2113
+Nr of patterns: 5
+
+test18
+Type: Multiple pattern matching
+Alphabet size: 256
+Text size: 1046796
+Nr of patterns: 7
+
+>>>LARGE NUMBER OF PATTERNS<<<
+test19
+Type: Multiple pattern matching
+Alphabet size: 2
+Text size: 14
+Nr of patterns: 10000
+
+test20
+Type: Multiple pattern matching
+Alphabet size: 256
+Text size: 2042
+Nr of patterns: 1000000

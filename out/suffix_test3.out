@@ -1,0 +1,4 @@
+KMP result
+The string 'This' is NOT a suffix and a prefix for 'This is an example of a suffix that is not a prefix.'
+RK result
+The string 'This' is NOT a suffix and a prefix for 'This is an example of a suffix that is not a prefix.'
